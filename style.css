@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+   
+    background-image: linear-gradient(to right,aquamarine,white);
+}
+nav a{
+    border: 2px dotted royalblue;
+    background-color:navy;
+    color:aquamarine;
+    padding:10px;
+
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.link-header{
+    border: 2px dotted royalblue;
+    background-color:navy;
+    color:aquamarine;
+}
+
+.link-header:hover{
+    background-color:white;
+}
+
